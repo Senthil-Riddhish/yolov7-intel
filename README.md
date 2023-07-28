@@ -1,5 +1,3 @@
-# Team Name - Ai Artistss
-# Problem Statement - Object Detection For Autonomous Vehicles 🚗`
 ## Output Videos From Our Model 📺
 https://drive.google.com/drive/folders/1WSYknCyP11lraXsjaTRNCGYYS4ejhJXf
 ## Introduction 🤝
